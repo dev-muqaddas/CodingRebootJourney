@@ -1,5 +1,6 @@
+# DAY-1 Topics List
 
-![DAY-1 Topics list ](Images/day1.png)
+![DAY-1 Topics list](Images/day1.png)
 
 ### 1. Introduction to Databases
 
