@@ -1,7 +1,3 @@
-Sure! Here's the provided text in Markdown format:
-
----
-
 # CodingRebootJourney
 
 Welcome to **CodingRebootJourney**! This repository is dedicated to documenting my daily progress as I relearn and enhance my coding skills after a one-year break. The journey is all about reigniting my passion for coding, updating my knowledge, and preparing myself for new professional opportunities.
