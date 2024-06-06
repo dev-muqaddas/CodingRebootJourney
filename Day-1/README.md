@@ -1,10 +1,12 @@
 # DAY-1 Topics List
 
-![DAY-1 Topics list](Images/day1.png)
+![DAY-1 Topics list](Images/summary.png)
 
 ### 1. Introduction to Databases
 
 #### Understanding Databases:
+
+![DAY-1 Understanding database](Images/understandingDatabase.png)
 
 **What is a Database?**
 
@@ -41,6 +43,8 @@ A database is an organized collection of data, generally stored and accessed ele
     Example: An `Orders` table might have a `UserID` as a foreign key linking to the `Users` table.
 
 #### Types of Databases:
+
+![DAY-1 Understanding database](Images/databaseTypes.png)
 
 **Relational Databases (RDBMS):**
 
