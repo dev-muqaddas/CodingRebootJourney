@@ -1,17 +1,17 @@
-## Summary:
+# Summary:
 ---
 
-## Notes:   
+# Notes:   
 
-### Project 
+## Project 
 Recreating the portfolio site.
 Refference: https://mattfarley.ca/
 
-#### Today's Goal: Navbar   
+### Today's Goal: Navbar   
 
 
 
 ---
 
-## Key Terminologies
+# Key Terminologies
 ---
