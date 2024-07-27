@@ -1,8 +1,7 @@
 ## Summary:
 ---
 
-## Notes:
----
+## Notes:   
 
 ### Project 
 Recreate the portfolio site.
