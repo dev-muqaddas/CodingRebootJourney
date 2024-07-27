@@ -4,13 +4,10 @@
 # Notes:   
 
 ## Project 
-Recreating the portfolio site.
-Refference: https://mattfarley.ca/
+Recreating the portfolio site.   
+Refference: https://mattfarley.ca/   
 Today's Goal: Navbar
 
-Sure! Here's the information formatted in Markdown for your notes:
-
-```markdown
 # HTML and CSS Project Folder Structure
 
 ## Folder Structure
