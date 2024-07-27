@@ -4,10 +4,12 @@
 ## Notes:   
 
 ### Project 
-Recreate the portfolio site.
+Recreating the portfolio site.
 Refference: https://mattfarley.ca/
 
-Todays goal is to create the **Navbar**.  
+#### Today's Goal: Navbar   
+
+
 
 ---
 
