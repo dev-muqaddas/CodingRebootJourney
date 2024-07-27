@@ -8,9 +8,9 @@ Recreating the portfolio site.
 Refference: https://mattfarley.ca/   
 Today's Goal: Navbar
 
-# HTML and CSS Project Folder Structure
+### HTML and CSS Project Folder Structure
 
-## Folder Structure
+#### Folder Structure
 
 ```
 project-root/
@@ -25,7 +25,7 @@ project-root/
 └── README.md
 ```
 
-## Explanation of Each Part
+#### Explanation of Each Part
 
 1. **`index.html`**: The main HTML file of your project.
 2. **`css/`**: Directory for all CSS files.
@@ -35,7 +35,7 @@ project-root/
    - **`scripts.js`**: Main JavaScript file.
 5. **`README.md`**: A markdown file to describe your project, how to set it up, and any other relevant information.
 
-## Best Practices
+#### Best Practices
 
 1. **Use Clear and Consistent Naming Conventions**:
    - Use lowercase letters and hyphens for file and folder names (`styles.css`, `index.html`).
