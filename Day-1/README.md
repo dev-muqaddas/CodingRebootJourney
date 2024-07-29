@@ -153,7 +153,8 @@ This approach ensures that all elements in your project use the `border-box` mod
 - **`content-box` (default)**: Width and height only include the content. Padding and border are added outside these dimensions.
 - **`border-box`**: Width and height include the content, padding, and border. This makes the total size of the element exactly what you set, simplifying layout calculations.   
 
-Using `border-box` helps ensure that the elements' sizes remain predictable, making your layout more consistent and easier to manage, especially in complex or responsive designs.
+Using `border-box` helps ensure that the elements' sizes remain predictable, making your layout more consistent and easier to manage, especially in complex or responsive designs.   
+
 ---
 
 # Key Terminologies
