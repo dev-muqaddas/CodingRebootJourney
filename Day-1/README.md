@@ -1,4 +1,19 @@
-# Summary:
+# Summary:   
+
+**Project Folder Structure:**
+
+- A clear and organized structure is essential for maintainability and scalability.
+- Separate files by type (HTML, CSS, images, JavaScript) and keep naming conventions consistent.
+
+**Box-Sizing: Border-Box:**
+
+- `box-sizing: border-box;` ensures the specified width and height include the content, padding, and border.
+- This model simplifies layout calculations and helps maintain consistent sizes across elements.
+
+**Flex Display:**
+
+- `display: flex` creates a flex container, allowing for flexible and responsive layout structures.
+- Key properties include `flex-direction`, `justify-content`, `align-items`, and individual item properties like `flex-grow`, `flex-shrink`, and `flex-basis`.
 
 # Notes:   
 Recreating the portfolio site.   
@@ -334,5 +349,25 @@ Using `display: flex` and its associated properties makes it much easier to crea
 
 ---
 
-# Key Terminologies
+# Key Terminologies   
+1. **Project Folder Structure:**
+   - **index.html**: Main HTML file.
+   - **css/**: Directory for CSS files.
+   - **images/**: Directory for image files.
+   - **js/**: Directory for JavaScript files (optional).
+   - **README.md**: Project overview and setup instructions.
+
+2. **Box-Sizing:**
+   - **`box-sizing: content-box`**: Default value where width and height include only the content.
+   - **`box-sizing: border-box`**: Width and height include content, padding, and border, making the total size predictable.
+
+3. **Flex Display:**
+   - **`display: flex`**: Defines a flex container.
+   - **`flex-direction`**: Sets the direction of the main axis (row or column).
+   - **`justify-content`**: Aligns items along the main axis (e.g., center, space-between).
+   - **`align-items`**: Aligns items along the cross axis (e.g., center, stretch).
+   - **`flex-grow`**: Defines the ability of a flex item to grow.
+   - **`flex-shrink`**: Defines the ability of a flex item to shrink.
+   - **`flex-basis`**: Sets the initial size of a flex item.
+   - **`align-self`**: Overrides `align-items` for individual flex items.
 
